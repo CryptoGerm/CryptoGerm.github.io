@@ -1,4 +1,3 @@
-# INTRODUCTION
 - **Name :** Stuti Chaturvedi 
 - **Year :** 1st Year 
 - **Branch :** CSE - Big Data
