@@ -11,6 +11,6 @@
 | Web Development | HTML, CSS, SQL, JavaScript |
 - **Currently Learning:** Google Cloud Platform, Unity 3D, Machine Learning.
 - **Profiles :**\
-[GitHub](http://www.github.com/CryptoGerm)\
-[HackerRank](http://www.hackerrank.com/CryptoGerm)\
-[LinkedIn](http://www.linkedin.com/in/stuti-chaturvedi-b88a5318b/)
+    [GitHub](http://www.github.com/CryptoGerm)\
+    [HackerRank](http://www.hackerrank.com/CryptoGerm)\
+    [LinkedIn](http://www.linkedin.com/in/stuti-chaturvedi-b88a5318b/)
